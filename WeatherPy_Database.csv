@@ -1,4 +1,4 @@
-City_ID,City,Country,Date,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed
+,City,Country,Date,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed
 0,Quatre Cocos,MU,2021-10-03 16:59:24,-20.2078,57.7625,72.09,79,23,17.2
 1,Avarua,CK,2021-10-03 16:59:25,-21.2078,-159.775,73.45,78,40,9.22
 2,Port Alfred,ZA,2021-10-03 16:54:45,-33.5906,26.891,58.06,68,36,11.74
